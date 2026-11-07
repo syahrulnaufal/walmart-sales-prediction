@@ -1,0 +1,22 @@
+Skenario,Model,MAE,RMSE,R2
+-,Naif (minggu lalu),60095.4958,91791.021,0.9707
+Lengkap,Linear Regression,417521.1305,497093.3734,0.1416
+Lengkap,Decision Tree,197155.1425,356299.3595,0.559
+Lengkap,Random Forest,150842.6025,275238.3083,0.7368
+Lengkap,XGBoost,120383.1435,215585.2833,0.8385
+Tanpa Holiday_Flag,Linear Regression,417677.7391,497331.8558,0.1407
+Tanpa Holiday_Flag,Decision Tree,200534.1239,356603.4969,0.5582
+Tanpa Holiday_Flag,Random Forest,151284.5137,275753.5032,0.7358
+Tanpa Holiday_Flag,XGBoost,119827.5502,213503.9826,0.8416
+Tanpa indikator ekonomi,Linear Regression,421746.7998,504690.8594,0.1151
+Tanpa indikator ekonomi,Decision Tree,73060.2949,103566.3891,0.9627
+Tanpa indikator ekonomi,Random Forest,62995.9956,92649.3994,0.9702
+Tanpa indikator ekonomi,XGBoost,65950.2044,95705.712,0.9682
+Tanpa Store,Linear Regression,456512.5524,531584.1493,0.0183
+Tanpa Store,Decision Tree,492480.9309,607872.6941,-0.2837
+Tanpa Store,Random Forest,473924.0697,569672.4074,-0.1274
+Tanpa Store,XGBoost,473054.07,565680.2824,-0.1117
+Tanpa fitur waktu,Linear Regression,419373.8412,497603.3202,0.1398
+Tanpa fitur waktu,Decision Tree,308205.2348,450317.1952,0.2955
+Tanpa fitur waktu,Random Forest,257187.9603,361902.9508,0.545
+Tanpa fitur waktu,XGBoost,174346.9279,244040.0446,0.7931

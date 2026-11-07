@@ -1,0 +1,6 @@
+Skenario,Model,Seed,MAE,RMSE,R2
+-,Naif (minggu lalu),-,54343.6234,82736.576,0.976
+Lengkap + Lag1,Random Forest,42,58742.2333,84530.0937,0.9749
+Lengkap + Lag1,XGBoost,42,53900.2637,77084.992,0.9791
+Tanpa indikator ekonomi + Lag1,Random Forest,42,49817.8512,75420.6092,0.98
+Tanpa indikator ekonomi + Lag1,XGBoost,42,45364.5982,66887.5782,0.9843
